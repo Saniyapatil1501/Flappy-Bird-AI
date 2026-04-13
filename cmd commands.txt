@@ -1,0 +1,4 @@
+D:
+cd "project\soft computing"
+venv\Scripts\activate
+python main.py
